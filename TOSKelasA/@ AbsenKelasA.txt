@@ -21,6 +21,11 @@ NIM: 531420006
 Nama: Aulia Nurfajila Hasan
 URL Repository: https://github.com/aulianurfh/TOS-Aulia 
 
+No Presensi: 06
+NIM: 531420007
+Nama: Nova Juliyana Bonarate
+https://github.com/Novaliana25/Tugas-TOS
+
 No Presensi: 07
 NIM: 531420008
 Nama: Nisya Fiscadilla Pala
