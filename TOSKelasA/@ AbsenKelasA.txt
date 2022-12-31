@@ -66,6 +66,11 @@ NIM: 531420016
 Nama: Sakila Gobel
 URL Repository: https://github.com/sakilagobel/TOS-Tugas
 
+No Presensi: 15
+NIM: 531420017
+Nama: Yudi
+URL Repository: https://github.com/YudiYudhi/UAs.Tos
+
 
 No Presensi: 17
 NIM: 531420019
