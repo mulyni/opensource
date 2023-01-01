@@ -76,6 +76,10 @@ NIM: 531420017
 Nama: Yudi
 URL Repository: https://github.com/YudiYudhi/UAs.Tos
 
+No Presensi: 16
+NIM: 531420018
+Nama: Moh.Haekal Lakoro
+URL Repository: https://github.com/MOHHAEKALLAKORO/Tugas-Haekal
 
 No Presensi: 17
 NIM: 531420019
