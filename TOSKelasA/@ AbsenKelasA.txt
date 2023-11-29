@@ -1,6 +1,5 @@
 PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan urutan nomor presensi.
 
-<<<<<<< HEAD
 
 ...
 
